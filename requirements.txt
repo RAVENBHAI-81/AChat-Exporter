@@ -1,0 +1,5 @@
+# AChat Exporter — Python dependencies
+# Standard library only — no install needed for core features.
+# cloudscraper is OPTIONAL: required only for Claude chat export.
+
+cloudscraper>=1.2.71
